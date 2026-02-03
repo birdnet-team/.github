@@ -1,4 +1,4 @@
-# BirdNET-Team — AI-Powered Bioacoustics, at scale.
+# AI-Powered Bioacoustics, at scale.
 
 [![Website](https://img.shields.io/badge/Website-birdnet.cornell.edu-blue)](https://birdnet.cornell.edu)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/BirdNET_Analyzer?style=social)](https://www.reddit.com/r/BirdNET_Analyzer/)
