@@ -90,5 +90,5 @@ BirdNET is a research project that depends on community support. If you find our
 ---
 
 <p align="center">
-  <i>Conservation through deep learning.</i>
+  <b>BirdNET: The AI toolkit for conservation.</b>
 </p>
