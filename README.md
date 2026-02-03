@@ -1,0 +1,2 @@
+# .github
+BirdNET-Team Readme
