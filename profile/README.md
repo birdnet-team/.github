@@ -1,8 +1,5 @@
 # AI-Powered Bioacoustics, at scale.
 
-[![Website](https://img.shields.io/badge/Website-birdnet.cornell.edu-blue)](https://birdnet.cornell.edu)
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/BirdNET_Analyzer?style=social)](https://www.reddit.com/r/BirdNET_Analyzer/)
-
 BirdNET uses deep learning to identify **6,000+ bird species** worldwide from sound. We build open-source tools that scale from a single recording to continent-wide monitoring programs — making professional bioacoustics accessible to researchers, conservationists, and citizen scientists alike.
 
 > A joint initiative of the [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) at the Cornell Lab of Ornithology and [Chemnitz University of Technology](https://www.tu-chemnitz.de/informatik/Medieninformatik/index.php.en).
