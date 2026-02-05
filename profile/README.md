@@ -18,6 +18,7 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 | **[birdnetTools](https://github.com/birdnet-team/birdnetTools)** | Shiny tools for summarizing, visualizing, and working with BirdNET output | R, Shiny |
 | **[BirdBox](https://github.com/birdnet-team/BirdBox)** | YOLO-based bounding box detector for bird vocalizations in spectrograms | Python |
 | **[birdnet-V3.0-dev](https://github.com/birdnet-team/birdnet-V3.0-dev)** | CLI and GUI for BirdNET+ V3.0 developer preview models | Python, Streamlit |
+| **[LyreBot](https://github.com/birdnet-team/lyrebot)** | Interactive AI agent for bioacoustics | Python, React |
 
 ### Embedded & Edge
 
