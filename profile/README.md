@@ -16,9 +16,11 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 | **[birdnet](https://github.com/birdnet-team/birdnet)** | Python library for bird species identification, built for robust ecological data workflows | Python |
 | **[birdnetR](https://github.com/birdnet-team/birdnetR)** | R wrapper around the birdnet package — run BirdNET and handle results directly in R | R |
 | **[birdnetTools](https://github.com/birdnet-team/birdnetTools)** | Shiny tools for summarizing, visualizing, and working with BirdNET output | R, Shiny |
+| **[geomodel](https://github.com/birdnet-team/geomodel)** | Spatiotemporal species occurrence prediction for post-filtering BirdNET acoustic detections | Python |
 | **[BirdBox](https://github.com/birdnet-team/BirdBox)** | YOLO-based bounding box detector for bird vocalizations in spectrograms | Python |
 | **[birdnet-V3.0-dev](https://github.com/birdnet-team/birdnet-V3.0-dev)** | CLI and GUI for BirdNET+ V3.0 developer preview models | Python, Streamlit |
 | **[LyreBot](https://github.com/birdnet-team/lyrebot)** | Interactive AI agent for bioacoustics | Python, React |
+
 
 ### Embedded & Edge
 
@@ -62,7 +64,7 @@ We're fortunate to have an amazing community building tools and projects with Bi
 BirdNET is grounded in peer-reviewed research. Our focus is on developing reliable open-source tools that transform raw audio into publication-ready ecological data.
 
 - **[Publications](https://birdnet.cornell.edu/publications/)** — Papers, conference contributions, and validation studies
-- **[Projects Map](https://birdnet.cornell.edu/projects/map/)** — See how researchers worldwide use BirdNET
+- **[Projects Map](https://birdnet.cornell.edu/projects-map/)** — See how researchers worldwide use BirdNET
 - **[K-12 Resources](https://birdnet.cornell.edu/k12/)** — Educational materials for schools
 
 ---
