@@ -50,7 +50,13 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 
 ## Community
 
-We're fortunate to have an amazing community building tools and projects with BirdNET. Check out the [Showroom](https://birdnet.cornell.edu/showroom/) to see what people are creating — from HaikuBox and BirdWeather to Raspberry Pi stations and desktop apps.
+We're fortunate to have an amazing community building tools and projects with BirdNET. Check out the **[Showroom](https://birdnet.cornell.edu/showroom/)** to see what people are creating — from HaikuBox and BirdWeather to Raspberry Pi stations and desktop apps.
+
+### Competitions
+
+We host an annual competition on Kaggle which is a great entry point for anyone new to AI-powered bioacoustics: **[BirdCLEF+ 2026 on Kaggle](https://www.kaggle.com/competitions/birdclef-2026/overview)**.
+
+Interested in TinyML? Make sure to check out our TinyML competition at BioDCASE: **[BioDCASE Task 3](https://biodcase.github.io/challenge2025/task3)**.
 
 ### Get Involved
 
