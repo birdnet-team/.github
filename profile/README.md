@@ -2,7 +2,7 @@
 
 BirdNET uses deep learning to identify **6,000+ bird species** worldwide from sound. We build open-source tools that scale from a single recording to continent-wide monitoring programs — making professional bioacoustics accessible to researchers, conservationists, and citizen scientists alike.
 
-> A joint initiative of the [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) at the Cornell Lab of Ornithology and [Chemnitz University of Technology](https://www.tu-chemnitz.de/informatik/Medieninformatik/index.php.en).
+> A joint initiative of the [Cornell K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and [Chemnitz University of Technology](https://www.tu-chemnitz.de/informatik/Medieninformatik/index.php.en).
 
 ---
 
@@ -35,7 +35,8 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| **[real-time-pwa](https://github.com/birdnet-team/real-time-pwa)** | BirdNET Live — Real-time identification in your browser (PWA) | JavaScript |
+| **[birdnet-live-app](https://github.com/birdnet-team/real-time-pwa)** | BirdNET Live — The bioacoustics companion app | Flutter, Dart |
+| **[real-time-pwa](https://github.com/birdnet-team/real-time-pwa)** | Real-time identification in your browser (PWA) | JavaScript |
 | **[birdnet-website](https://github.com/birdnet-team/birdnet-website)** | BirdNET website codebase | Eleventy, Bootstrap |
 
 ---
