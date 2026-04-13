@@ -35,7 +35,7 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| **[birdnet-live-app](https://github.com/birdnet-team/real-time-pwa)** | BirdNET Live — The bioacoustics companion app | Flutter, Dart |
+| **[birdnet-live-app](https://github.com/birdnet-team/birdnet-live-app)** | BirdNET Live — The bioacoustics companion app | Flutter, Dart |
 | **[real-time-pwa](https://github.com/birdnet-team/real-time-pwa)** | Real-time identification in your browser (PWA) | JavaScript |
 | **[birdnet-website](https://github.com/birdnet-team/birdnet-website)** | BirdNET website codebase | Eleventy, Bootstrap |
 
