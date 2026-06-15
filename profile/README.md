@@ -1,6 +1,6 @@
 # AI-Powered Bioacoustics, at scale.
 
-BirdNET uses deep learning to identify **6,000+ bird species** worldwide from sound. We build open-source tools that scale from a single recording to continent-wide monitoring programs — making professional bioacoustics accessible to researchers, conservationists, and citizen scientists alike.
+BirdNET uses deep learning to identify more than **11,000+ species** worldwide from sound. We build open-source tools that scale from a single recording to continent-wide monitoring programs — making professional bioacoustics accessible to researchers, conservationists, and citizen scientists alike.
 
 > A joint initiative of the [Cornell K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and [Chemnitz University of Technology](https://www.tu-chemnitz.de/informatik/Medieninformatik/index.php.en).
 
@@ -19,7 +19,7 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 | **[geomodel](https://github.com/birdnet-team/geomodel)** | Spatiotemporal species occurrence prediction for post-filtering BirdNET acoustic detections | Python |
 | **[BirdBox](https://github.com/birdnet-team/BirdBox)** | YOLO-based bounding box detector for bird vocalizations in spectrograms | Python |
 | **[birdnet-V3.0-dev](https://github.com/birdnet-team/birdnet-V3.0-dev)** | CLI and GUI for BirdNET+ V3.0 developer preview models | Python, Streamlit |
-| **[LyreBot](https://github.com/birdnet-team/lyrebot)** | Interactive AI agent for bioacoustics | Python, React |
+| **[model-converter](https://github.com/birdnet-team/model-converter)** | Model converter for BirdNET+ V3.X models | Python |
 | **[Taxonomy](https://github.com/birdnet-team/birdnet-taxonomy)** | Taxonomy and species metadata for BirdNET models | Python |
 
 
@@ -35,7 +35,7 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| **[birdnet-live-app](https://github.com/birdnet-team/birdnet-live-app)** | BirdNET Live — The bioacoustics companion app | Flutter, Dart |
+| **[birdnet-live-app](https://github.com/birdnet-team/birdnet-live-app)** | BirdNET Live — Professional Bioacoustics in your Pocket | Flutter, Dart |
 | **[real-time-pwa](https://github.com/birdnet-team/real-time-pwa)** | Real-time identification in your browser (PWA) | JavaScript |
 | **[birdnet-website](https://github.com/birdnet-team/birdnet-website)** | BirdNET website codebase | Eleventy, Bootstrap |
 
@@ -43,9 +43,9 @@ BirdNET uses deep learning to identify **6,000+ bird species** worldwide from so
 
 ## Try BirdNET
 
-- **[BirdNET App](https://birdnet.cornell.edu/app/)** — Free mobile app for Android & iOS
-- **[BirdNET Live](https://birdnet-team.github.io/real-time-pwa/)** — Real-time identification in your browser (works offline!)
+- **[BirdNET Live App](https://birdnet.cornell.edu/live-app/)** — Our new app with on-device inference for iOS and Android
 - **[Browser Demo](https://birdnet.cornell.edu/demo/)** — Upload audio and analyze with TensorFlow.js
+- **[BirdNET-Pi](https://birdnet.cornell.edu/birdnet-pi/)** — Build your own backyard listening station
 
 ---
 
