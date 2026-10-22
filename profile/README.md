@@ -1,4 +1,4 @@
-# AI-Powered Bioacoustics, at scale.
+# The AI toolkit for conservation bioacoustics
 
 BirdNET uses deep learning to identify more than **11,000+ species** worldwide from sound. We build open-source tools that scale from a single recording to continent-wide monitoring programs — making professional bioacoustics accessible to researchers, conservationists, and citizen scientists alike.
 
@@ -101,5 +101,5 @@ BirdNET is a research project that depends on community support. If you find our
 ---
 
 <p align="center">
-  <b>BirdNET: The AI toolkit for conservation.</b>
+  <b>BirdNET: AI-Powered Bioacoustics, at scale.</b>
 </p>
